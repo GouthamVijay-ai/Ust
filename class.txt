@@ -1,0 +1,7 @@
+--23/04/2025--
+
+->400 above gateway error is client side error,500 above is server side error
+->p1,p2,p3 are levels of troubleshooting,p1 is highest 
+->git is version control system
+-> Public and private repository
+->Branches- main and master
